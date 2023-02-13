@@ -1,0 +1,9 @@
+.vs/
+Debug/
+x64/
+*.sln
+learnOpenGL/Debug/
+learnOpenGL/x64/
+learnOpenGL/learnOpenGL.vcxproj
+learnOpenGL/learnOpenGL.vcxproj.filters
+learnOpenGL/learnOpenGL.vcxproj.user
